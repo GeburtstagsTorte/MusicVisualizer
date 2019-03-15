@@ -18,8 +18,8 @@ Contains all python code. Namely:
 
 
 ## TO DO List
-TO DO:
- - [] Get LED strip ws2812b to work
- - [] Connect App to Pi with ssh
- - [] create simple light modes
- - [] use numpy arrays
+
+ - [ ] Get LED strip ws2812b to work
+ - [ ] Connect App to Pi with ssh
+ - [ ] create simple light modes
+ - [ ] use numpy arrays
